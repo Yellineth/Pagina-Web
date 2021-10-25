@@ -1,0 +1,122 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+}
+.body{
+    padding: 60px 15px;
+}
+.areYouSerious{
+    font-family: 'Are You Serious', cursive;
+}
+.title{
+    font-size: 3.0em;
+    margin-top: 0;
+}
+
+.main-header {
+  background-color:#34495E;
+  padding-left:15px;
+  padding-right:15px; 
+  padding-top:10px;
+  padding-bottom:10px;
+  border-radius: 4px;
+ }
+.nav-link{
+  color:white;
+  margin-right: -4px;
+  text-decoration: none;
+  width: 33%;
+  display: inline-block;
+ }
+.text-center {
+  text-align:center;
+ }
+.red-text{
+  color:#F45B69;
+ }
+.menu-color{
+    color:blue
+}
+.main-container{
+    min-height: 100vh;
+}
+.product img{
+width:150px;
+}
+.product h3{
+    font-size: 1.7em;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.card {
+    border-radius: 4px;
+    background-color: white;
+    box-shadow: 0 1px 3px  rgba(0,0,0,0.12),0 1px 2px rgba(0,0,0,0.24);
+}
+.threeD{
+    text-shadow: 1px 3px 0px #6b251d, 1px 13px 5px rgb(171, 168, 168);
+}
+.delay-1{
+    animation: 0.5s;
+    position: relative;
+    z-index: 13;
+}
+.delay-2{
+    animation: 1.0s;
+    position: relative;
+    z-index: 12;
+}
+.delay-3{
+    animation: 1.5s;
+    position: relative;
+    z-index: 11;
+}
+.delay-4{
+    animation: 2.0s;
+    position: relative;
+    z-index: 10;
+}
+.delay-5{
+    animation: 2.5s;
+    position: relative;
+    z-index: 9;
+}
+.delay-6{
+    animation: 3.0s;
+    position: relative;
+    z-index: 8;
+}
+.delay-7{
+    animation: 3.5s;
+    position: relative;
+    z-index: 7;
+}
+.delay-8{
+    animation: 4.0s;
+    position: relative;
+    z-index: 6;
+}
+.delay-9{
+    animation: 4.5s;
+    position: relative;
+    z-index: 5;
+}
+.delay-10{
+    animation: 5.0s;
+    position: relative;
+    z-index: 4;
+}
+.delay-11{
+    animation: 5.5s;
+    position: relative;
+    z-index: 3;
+}
+.delay-12{
+    animation: 6.0s;
+    position: relative;
+    z-index: 2;
+}
+.delay-13{
+    animation: 6.5s;
+    position: relative;
+    z-index: 1;
+}
